@@ -1,4 +1,4 @@
-// Bài 2: Tính S(n) = 1^2 + 2^2 + … + n^2
+// Bài 2: Tính S(n) = 1^2 + 2^2 + … + n^2, n nguyen duong
 #include <stdio.h>
 #include <math.h>
 int main()

@@ -1,4 +1,4 @@
-// Bài 4: Tính S(n) = ½ + ¼ + … + 1/2n
+// Bài 4: Tính S(n) = ½ + ¼ + … + 1/2n, n nguyen duong
 
 #include <stdio.h>
 int main()

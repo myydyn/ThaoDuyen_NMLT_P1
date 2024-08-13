@@ -1,4 +1,4 @@
-// Bài 3: Tính S(n) = 1 + ½ + 1/3 + … + 1/n
+// Bài 3: Tính S(n) = 1 + ½ + 1/3 + … + 1/n, n nguyen duong
 
 #include <stdio.h>
 #include <math.h>

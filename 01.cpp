@@ -1,3 +1,4 @@
+// Bài 1: Tính S(n) = 1 + 2 + 3 + … + n, n nguyen duong
 #include <stdio.h>
 int main()
 {
