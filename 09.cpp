@@ -9,7 +9,7 @@ int main()
     scanf("%d", &n);
     while (i <= n)
     {
-        s *= n;
+        s *= i;
         i ++;
     }
     printf("S(n) = %d\n", s);
