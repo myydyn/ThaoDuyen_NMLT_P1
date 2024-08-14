@@ -1,4 +1,4 @@
-// Bài 18: Tính S(n) = 1 + x^2/2! + x^4/4! + … + (x^2n)/(2n)! voi x la so thuc, n nguyen duong
+// Bài 18: Tính S(n) = 1 + x^2/2! + x^4/4! + … + (x^2n)/(2n)! (voi x la so thuc, n nguyen duong)
 
 #include <stdio.h>
 #include <math.h>
