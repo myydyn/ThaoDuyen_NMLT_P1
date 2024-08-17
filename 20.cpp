@@ -5,7 +5,7 @@ int main()
     int i = 1, n;
     printf("n = ");
     scanf("%d", &n);
-    printf("Cac uoc cua n la:");
+    printf("Cac uoc cua n la: ");
     while (i <= n)
     {
         if  (n % i == 0) {
@@ -13,6 +13,6 @@ int main()
         }
         i++;
     }
-
+    printf("\n");
     return 0;
 }
